@@ -15,4 +15,4 @@
 
 [submodule "TicketManagement"]
 	path = java/TicketManagement
-	url = https://github.com/Gene1994/TicketManagement
+	url = https://github.com/Gene1994/TicketManagement.git
