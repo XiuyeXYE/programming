@@ -1,3 +1,18 @@
 [submodule "cpp"]
 	path = cpp
 	url = git@github.com:XiuyeXYE/cpp.git
+
+
+[submodule "mall-admin-web"]
+	path = java/mall-admin-web
+	url = git@github.com:XiuyeXYE/mall-admin-web.git
+
+[submodule "mall"]
+	path = java/mall
+	url = git@github.com:XiuyeXYE/mall.git
+
+
+
+[submodule "TicketManagement"]
+	path = java/TicketManagement
+	url = git@github.com:Gene1994/TicketManagement.git
