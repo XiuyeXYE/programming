@@ -22,4 +22,9 @@
 	url = git@github.com:XiuyeXYE/walle-web.git
 
 
+[submodule "mall-swarm"]
+	path = java/mall-swarm
+	url = git@github.com:XiuyeXYE/mall-swarm.git
+
+
 	
