@@ -15,7 +15,7 @@
 
 [submodule "TicketManagement"]
 	path = java/TicketManagement
-	url = https://github.com/Gene1994/TicketManagement.git
+	url = git@github.com:Gene1994/TicketManagement.git
 
 [submodule "walle-web"]
 	path = walle-web
@@ -28,9 +28,7 @@
 
 
 
-[submodule "xv6-public"]
-	path = OS/xv6-public
-	url = git@github.com:XiuyeXYE/xv6-public.git
+
 
 
 
