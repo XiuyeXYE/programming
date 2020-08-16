@@ -1,15 +1,18 @@
 [submodule "cpp"]
 	path = cpp
 	url = git@github.com:XiuyeXYE/cpp.git
+	branch = master
 
 
 [submodule "java/mall-admin-web"]
 	path = java/mall-admin-web
 	url = git@github.com:XiuyeXYE/mall-admin-web.git
+	branch = master
 
 [submodule "java/mall"]
 	path = java/mall
 	url = git@github.com:XiuyeXYE/mall.git
+	branch = master
 
 
 
@@ -20,11 +23,13 @@
 [submodule "walle-web"]
 	path = walle-web
 	url = git@github.com:XiuyeXYE/walle-web.git
+	branch = master
 
 
 [submodule "java/mall-swarm"]
 	path = java/mall-swarm
 	url = git@github.com:XiuyeXYE/mall-swarm.git
+	branch = master
 
 
 
@@ -36,3 +41,4 @@
 [submodule "java/JavaUtil"]
 	path = java/JavaUtil
 	url = git@github.com:XiuyeXYE/JavaUtil.git
+	branch = jdk8
