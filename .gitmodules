@@ -42,3 +42,18 @@
 	path = java/JavaUtil
 	url = git@github.com:XiuyeXYE/JavaUtil.git
 	branch = jdk8
+[submodule "java/spring5-samples"]
+	path = java/spring5-samples
+	url = git@github.com:XiuyeXYE/spring5-samples.git
+[submodule "java/j-im"]
+	path = java/j-im
+	url = git@gitee.com:xiuye_engineer/j-im.git
+[submodule "java/spring-boot-pay"]
+	path = java/spring-boot-pay
+	url = git@gitee.com:xiuye_engineer/spring-boot-pay.git
+[submodule "java/vhr"]
+	path = java/vhr
+	url = git@github.com:XiuyeXYE/vhr.git
+[submodule "java/NiceFish"]
+	path = java/NiceFish
+	url = git@gitee.com:mumu-osc/NiceFish.git
